@@ -1,0 +1,4 @@
+3 hours of typing practice 
+1 hour ansible playbook practice
+1 hour terraform practice
+
